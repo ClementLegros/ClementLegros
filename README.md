@@ -4,14 +4,16 @@
 
 ### Languages et outils : 
 
-.VSCODE
+.VSCODE : 100%
 <br/>
-.HTML / CSS
+.HTML / CSS : 60%
 <br/>
-.PHP
+.PHP : 60%
 <br/>
-.JAVASCRIPT
+.JAVASCRIPT : 30%
 <br/>
-.REACT
+.REACT : 10%
 <br/>
-.GITHUB
+.GITHUB : 50%
+
+
