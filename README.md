@@ -5,8 +5,13 @@
 ### Languages et outils : 
 
 .VSCODE
+<br/>
 .HTML / CSS
+<br/>
 .PHP
+<br/>
 .JAVASCRIPT
+<br/>
 .REACT
+<br/>
 .GITHUB
