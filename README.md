@@ -6,14 +6,14 @@
 
 .VSCODE : 100%
 <br/>
-.HTML / CSS : 60%
+.HTML / CSS : 70%
 <br/>
-.PHP : 60%
+.PHP : 70%
 <br/>
-.JAVASCRIPT : 30%
+.JAVASCRIPT : 60%
 <br/>
-.REACT : 10%
+.REACT : 30%
 <br/>
-.GITHUB : 50%
+.GIT : 50%
 
 
