@@ -1,16 +1,3 @@
-<div id="header" align="center">
-    <div id="badges">
-        <a href="https://codepen.io/clementlegros">
-            <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
-        </a>       
-   </div>
-    <img src="https://komarev.com/ghpvc/?username=ClementLegros&style=flat-square&color=blue" alt=""/>
-    <h1>
-  Heck
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/pdaJ5aYVMR1CD1xlw6/giphy.gif" width="600" height="300"/>
 </div>
