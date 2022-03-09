@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/10kABVanhwykJW/giphy.gif" width="100"/>
     <div id="badges">
         <a href="https://codepen.io/clementlegros">
             <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
@@ -7,7 +6,7 @@
    </div>
     <img src="https://komarev.com/ghpvc/?username=ClementLegros&style=flat-square&color=blue" alt=""/>
     <h1>
-  Welcome to my Github
+  Heck
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
