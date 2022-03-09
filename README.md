@@ -19,8 +19,8 @@
 
 ### 👨‍💻 About Me :
 
-- Je suis étudiant en licence à l'iut d'Orsay.
-- J'ai pour objectif de devenir développeur web fullstack.
+- Student
+- Want to became a fullstack web developper
 
 ---
 
