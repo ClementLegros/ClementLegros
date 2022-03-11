@@ -7,7 +7,8 @@
 ### 👨‍💻 About Me :
 
 - Student
-- Want to became a fullstack web developper
+- Hecker
+- React Enjoyer
 
 ---
 
