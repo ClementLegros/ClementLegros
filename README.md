@@ -1,19 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/10kABVanhwykJW/giphy.gif" width="500"/>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/pdaJ5aYVMR1CD1xlw6/giphy.gif" width="600" height="300"/>
-</div>
-    
----
-
-### 👨‍💻 About Me :
-
-- Student
-- Hecker
-- React Enjoyer
-
----
 
 ### :hammer_and_wrench: Languages :
 <div>
