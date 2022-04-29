@@ -12,7 +12,7 @@
   </div>
   
 
-<h1>Framework</h1>
+<h1>Framework / Library</h1>
 <div>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
